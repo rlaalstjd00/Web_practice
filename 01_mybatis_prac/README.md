@@ -4,7 +4,7 @@ MyBatis를 이용해 이전 예제인 ajax 예제에서 SQL문과 호출 메서�
 
 > [ajax 예제 바로가기](https://github.com/rlaalstjd00/Web_practice/tree/master/00_ajax_prac)
 
-- 로직 구현
+- 로직 구현 
   - joinview.jsp 에서 중복체크 버튼 누르면 `checkId()` 함수 호출, 가입하기 버튼 누르면 `sendit()` 함수 호출 
     - `checkId()` : Ajax를 이용해 checkId_db.jsp로 POST 방식의 데이터 전송.
       - checkId_db.jsp : userDAO의 `checkId()` 메서드 호출해 아이디 중복여부 확인
