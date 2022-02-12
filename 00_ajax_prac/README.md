@@ -14,16 +14,18 @@ Ajax를 사용해 페이지의 이동 없이 간단한 아이디 중복검사 �
   - AJAX_TEST_USER 테이블
 
     - USERID, USERPW, USERNAME 컬럼
+  - USERID 가 PK
+    
 
-    - USERID 가 PK
+- 실행 결과
 
-      
+  1.  DB에 존재하는 아이디일 때
 
-1. DB에 이미 존재하는 아이디일 때 
+     <img src="./00_ajax_prac/images/img1.png">
 
-<img src="./img1.png">
+  2. DB에 존재하지 않는 아이디일 때
 
-2. DB에 존재하지 않는 새로운 아이디일 때
+     <img src="./00_ajax_prac/images/img2.png">
 
-<img src="./img2.png">
+
 
