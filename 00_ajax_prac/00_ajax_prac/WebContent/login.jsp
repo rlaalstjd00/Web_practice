@@ -15,7 +15,7 @@
 		for(Cookie cookie : cookies){
 			if(cookie.getName().equals("joinid")){
 				joinid = cookie.getValue();
-				// 쿠키를 다 사용했으니까 사용자에 있는 쿠키는 지워주기
+				
 				cookie.setMaxAge(0);
 				response.addCookie(cookie);
 			}
