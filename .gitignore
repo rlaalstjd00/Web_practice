@@ -4,7 +4,7 @@
 !gradle/wrapper/gradle-wrapper.jar
 /out/
 /target/
-.png
+*.png
 
 ### STS ###
 .apt_generated
