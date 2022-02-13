@@ -24,7 +24,8 @@ MVC model 2 의 구조를 공부하기 위함으로 별도의 유효성검사 �
   
   5. user.xml
   
-    - User.join : FC_TEST_USER에 데이터 추가
+       - User.join : FC_TEST_USER에 데이터 추가
+  
   
   6. 이후에 `execute()` 메서드가 세팅된 forward 값을 리턴하며 ..user/userLogin.us 로 이동 이 때도 마찬가지로 파일이 아니므로 web.xml에 등록된 서블릿을 찾고 UserFrontController로 이동후 `case`문을 따라 loginview.jsp로 이동
   
