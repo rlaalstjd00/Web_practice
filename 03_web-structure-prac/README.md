@@ -6,7 +6,7 @@
 
 - 자바 부분 패키지 구조
 
-  <img src="./ex01/images/img1.PNG">
+  <img src="./ex01/images/img1.png">
 
   - Controller : 각 uri별로 응답에 대한 처리
   - Repository : user 등록이나 목록조회 같은 데이터 접근 
