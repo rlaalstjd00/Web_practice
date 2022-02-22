@@ -20,3 +20,9 @@
   
   [TIL_frontController 바로가기](https://github.com/rlaalstjd00/TIL/blob/master/07_MVC/01_Front-Controller%20Pattern.md)
 
+- **03_web-structure-prac**
+
+  웹 애플리케이션 3계층 구조를 이해하기 위한 예제. 기능구현보다는 패키지 구조에 대한 이해에 중점을 둠.
+
+  [TIL 웹 계층구조 바로가기](https://github.com/rlaalstjd00/TIL/blob/master/09_Spring/01_%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0.md)
+
